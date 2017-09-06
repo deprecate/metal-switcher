@@ -57,4 +57,5 @@ Switcher.STATE = {
 };
 Soy.register(Switcher, templates);
 
+export { Switcher }; 
 export default Switcher;
